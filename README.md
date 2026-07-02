@@ -61,3 +61,12 @@ All data is stored locally in your browser via `localStorage`. There is no serve
 - React 18
 - TypeScript
 - Vite
+
+## Business Problem
+This project addresses a real operational need with measurable outcomes and implementation clarity.
+
+## Architecture
+The implementation organizes workflow logic, data flow, and execution steps to support reliable delivery in practice.
+
+## Outcomes
+Budgeting application project for planning, tracking, and financial scenario analysis.
